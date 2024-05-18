@@ -6,7 +6,7 @@ C.R.U.D. with the help of reducers. You can create your list with the image in a
 
 The visual of the project is given below.
 
-
+![Animation](https://github.com/oranmehmetsirin/Shopping-List/blob/main/gif.gif?raw=true)
 
 # Getting Started with Create React App
 
