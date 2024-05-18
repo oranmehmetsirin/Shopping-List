@@ -1,3 +1,13 @@
+# Shopping-List
+
+An example of a shopping list web frontend built with React-Redux.
+
+C.R.U.D. with the help of reducers. You can create your list with the image in a similar structure, and if you wish, you can expand the scope and list and prioritize by price.
+
+The visual of the project is given below.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +78,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Shopping-List
